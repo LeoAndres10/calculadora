@@ -36,7 +36,7 @@ return{
     periodoTiempo,
     diasEntrenamiento,
     totalHoras,
-    cumplido: 0,
+    cumplido,
     rating,
     descripcion
 };
