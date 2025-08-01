@@ -17,6 +17,7 @@ export default function OperacionesAritmeticas({periodoTiempo,
     return (
         <View>
             <Text>Resultados Operaciones</Text>
+            <Text>Resultado del promedio : {promedio}</Text>
             <Text>Resultado del periodoTiempo : {periodoTiempo}</Text>
             <Text>Resultado del dias Entrenamiento : {diasEntrenamiento}</Text>
             <Text>Resultado del total de Horas : {totalHoras}</Text>
