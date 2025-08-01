@@ -59,7 +59,7 @@ return{
       <Text>Resultado Suma: {sumarNumeros(3, 3)}</Text>
       
       <OperacionesAritmeticas periodoTiempo={5} diasEntrenamiento={10} totalHoras={10} promedio={40} cumplido={10} rating={10} descripcion='Hay que mejorar'></OperacionesAritmeticas>
-      <Text>Resultados: {calculateExercises([20],50)}</Text>
+      <Text>Resultados: {calculateExercises([3,0,2,4.5,0,3,1],2)}</Text>
       <ListaAsignatura></ListaAsignatura>
 
     </View>
